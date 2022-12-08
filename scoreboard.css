@@ -1,0 +1,170 @@
+.scoreboards {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#athletics {
+    background-color: rgb(37, 150, 190);
+    height: 100vh;
+    width: 100vw;
+    
+}
+#badminton {
+    background-color: #7ccfec;
+}
+#basketball {
+    background-color: 
+    #a9dcef;
+}
+#cricket {
+    background-color: #9ee4ff;
+}
+#chess {
+    background-color: #9effa1;
+}
+#football {
+    background-color: 
+    #7ff983;
+}
+#hockey {
+    background-color: #71fd75;
+}
+#squash {
+    background-color: 
+    #fdbf71;
+}
+#tennis {
+    background-color: #Ffc0bb;
+}
+#tabletennis {
+    background-color: 
+    #Ffd3bb;
+}
+#volleyball {
+    background-color: #E6bbff;
+}
+#weightlifting {
+    background-color: #Fad3fd;
+}
+.volly-score {
+    background-color: 
+    #F5464a; 
+    width:fit-content;
+    padding: 2rem;
+    border-radius: 2rem;
+    margin: 3rem 0;
+}
+.gamescore {
+    align-items: center;
+    margin: auto;
+}
+.voly-team-score {
+    background-color: #Fbd4d7;
+    margin: 0 2rem;
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+}
+.volly-sets {
+    padding-top: auto;
+}
+.setscore {
+    margin: 2rem auto;
+}
+.eachsetscore {
+    text-align: center;
+    
+}
+.eachsetscore h4 {
+    background-color: #Fbd4d7;
+    margin: 1rem 4rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+}
+.cricscore {
+    background-color: #Fdbf71;
+    width:fit-content;
+    padding: 2rem;
+    border-radius: 2rem;
+    margin: 3rem 0;
+}
+.score-wicket {
+    margin-left: 5rem;
+    display: flex;
+    flex-direction: row;
+    margin-top: 0.25rem;
+}
+.score-wicket p {
+    margin-left: 0.4rem;
+}
+.hock-score {
+    background-color:
+    #Ff8496;
+    width:fit-content;
+    padding: 2rem;
+    border-radius: 2rem;
+    margin: 1.5rem 0;
+}
+.halftime {
+    background-color: #F5dde0;
+    border-radius: 1rem;
+}
+.teamhoc {
+    margin: 1rem 3rem ;
+}
+.chesscore {
+    text-align: center;
+    background-color:
+    #Ffb7c0;
+    width:fit-content;
+    padding: 2rem;
+    border-radius: 2rem;
+    margin: 1.5rem 0;
+}
+.chessteam {
+    padding: 1rem;
+    background-color: #ddf5eb;
+    border-radius: 1rem;
+    margin: 0.5rem 1.5rem;
+}
+.athlescores {
+    margin: 0 auto;
+    text-align: center;
+}
+.running {
+    background-color: #Ffd3b7; 
+    width:fit-content;
+    padding: 0.5rem;
+    border-radius: 2rem;
+    margin: 0.5rem .5rem;
+}
+
+.standings {
+    width: 87%;
+    background-color: 
+    #Ffecb7;
+    border-radius: 1rem;
+    margin: 0.5rem 1.5rem;
+    padding: 0.2rem auto;
+}
+.standings h5 {
+    margin: 0 1.2rem;
+}
+.weits {
+    text-align: center;
+    background-color: #7e9dfd;
+    width:fit-content;
+    padding: 0.5rem;
+    border-radius: 2rem;
+    margin: 1rem .5rem;
+
+}
+.snatchnum {
+    background-color: #Cdc5f7;
+    border-radius: 1rem;
+    margin: 0.5rem 1.5rem;
+    padding: 0.5rem 1rem; 
+}
